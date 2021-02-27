@@ -1,6 +1,4 @@
 # JDACommandAPI
- Create Discord commands!
- 
  Example command
  ```java
  public final class ExampleCommand implements DiscordCommandExecutor {
